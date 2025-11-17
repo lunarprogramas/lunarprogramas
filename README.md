@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on custom APIs!
 - 🌱 I’m always learning how to code in C#, JavaScript and Luau!
 - 😄 Pronouns: he/him
-- 🏢 Organizations: Paragon Research Institute (Senior Programming Developer)
+- 🏢 Organizations: unnamed.games (Programmer)
 - 🌐 Website: https://www.lunarprogramas.co.uk/
 - 📨 Email: `inquiry@lunarprogramas.co.uk`
 
