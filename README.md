@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - 🏢 Organizations: unnamed.games (Programmer)
 - 🌐 Website: https://www.lunarprogramas.co.uk/
-- 📨 Email: `inquiry@lunarprogramas.co.uk`
+- 📨 Email: `janslan.dev@gmail.com`
 
 ![lunarprogramas's Stats](https://github-readme-stats.vercel.app/api?username=lunarprogramas&theme=onedark&show_icons=true&hide_border=false&count_private=true)
   
