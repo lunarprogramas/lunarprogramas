@@ -3,9 +3,7 @@
 - I'm **lunarprogramas**, you can just call me **Lunar** 🐈!
 - 🔭 I’m currently working on custom APIs!
 - 🌱 I’m always learning how to code in C#, JavaScript and Luau!
-- 😄 Pronouns: he/him
-- 🏢 Organizations: unnamed.games (Programmer)
-- 🌐 Website: https://www.janslan.uk/
+- 🏢 Organizations: SCP-F Paragon (junior programmer), unnamed.games (Programmer)
 - 📨 Email: `janslan.dev@gmail.com`
 
 ![lunarprogramas's Stats](https://github-readme-stats.vercel.app/api?username=lunarprogramas&theme=onedark&show_icons=true&hide_border=false&count_private=true)
